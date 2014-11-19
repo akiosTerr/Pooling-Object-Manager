@@ -56,10 +56,7 @@ public class asset_manager : MonoBehaviour {
 		fireworks = new poole_obj (fireWorks_GO,3);
 	}
 
-
-	//methods to accsess the object from outside the script, each method returns a diferent object.
-	//to put a new object you have to mount a instance of "poole_obj" class on start, then make the same method pattern below with the instance
-
+	
 	public GameObject Get_projetil (string projetil_name)
 	{
 		poole_obj proj_obj = null;
