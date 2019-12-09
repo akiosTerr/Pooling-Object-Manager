@@ -1,6 +1,8 @@
 Pooling-Object-Manager-for-UNITY
 ======================
-optimazed object pooling manager for Unity Engine
+basically a script for creating **object pools** 
+so you dont have to instantiate objects on the fly  (like projectiles!) 
+which creates lag and stuff.
 ================================
 Updated to 2.0! (after 5 years!)
 
